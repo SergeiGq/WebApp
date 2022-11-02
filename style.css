@@ -1,0 +1,227 @@
+.gg{
+    color: red;
+}
+.linestart{
+    padding-left: 423px;
+    padding-right: 423px;
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    height: 100px;
+    color: white;
+    text-align: center;
+    align-items: center;
+
+
+}
+*{
+    margin:0 0 0 0;
+}
+.item{
+    font-size: 23px ;
+}
+.WebContainer{
+    padding-top:250px ;
+    background: url("Image/Och.png");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 900px;
+
+
+}
+.itemWeb{
+    font-size: 74px;
+   width: 100%;
+
+}
+.itemPrac{
+    font-size: 18px;
+    padding-bottom: 120px;
+}
+.itemSpec{
+    width: 250px;
+    height: 50px;
+    border: solid 1px;
+display: flex;
+text-align: center;
+    align-items:center;
+
+
+}
+.textitem{
+padding-left: 20px;
+
+}
+.imgit{
+    padding-left: 20px;
+}
+.flexOp{
+    height: 940px;
+    display: flex;
+
+
+}
+.textOp{
+    width: 100%;
+    padding-top:200px;
+    display: flex;
+    flex-direction: column;
+background: azure;
+
+
+
+
+}
+.itemdef{
+
+    padding-left: 107px;
+text-align: end;
+    padding-bottom: 40px;
+    width: 390px;
+
+}
+
+.titletext{
+    padding-bottom: 40px;
+    width: 500px;
+    font-size: 48px;
+    padding-left: 250px;
+}
+.Men{
+    height: 949px;
+    font-size:16px;
+    background: #1A1F25 ;
+    color: white;
+}
+.MenTitle{
+    padding-top: 90px;
+    padding-bottom:126px;
+    font-size: 48px;
+    display: flex;
+
+    justify-content: center;
+}
+.MenContainer{
+display: flex;
+
+
+}
+.mencont{
+    display: flex;
+    padding-left: 450px;
+    padding-right: 373px;
+    flex-direction: column;
+
+}
+.MenCol{
+display: flex;
+    flex-direction: column;
+    margin-right-right: 40px;
+text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 203px;
+
+}
+.imgblock{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding-bottom: 20px;
+
+}
+.itemCol{
+    display: flex;
+padding-bottom: 92px;
+}
+.File4{
+    height: 900px;
+    background: url("Image/Fon4.png");
+}
+.itemtit{
+        padding-left: 352px;
+    padding-top: 336px;
+    font-size: 48px;
+    padding-bottom: 80px;
+}
+.container4{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    padding-left: 352px;
+    padding-right: 456px;
+    padding-bottom: 70px;
+}
+.container4item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item4{
+    display: flex;
+
+text-align: center;
+    padding-right: 20px;
+    font-size: 16px;
+    width: 430px;
+    height: 48px;
+}
+.item4img{
+
+    padding-right: 20px;
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+}
+.message{
+    display: flex;
+}
+.messagecolumn{
+    display: flex;
+    flex-direction: column;
+    padding-right: 180px;
+    padding-left: 296px;
+    padding-top: 156px;
+    background: black;
+    width: 100%;
+    color: white;
+}
+.titlesity{
+    font-size: 46px;
+    padding-bottom: 80px;
+}
+.itemsity{
+    padding-bottom: 80px;
+}
+.itemsity1{
+    padding-bottom: 40px;
+}
+.itemsity2{
+    padding-bottom: 100px;
+}
+.itemsity3{
+    padding-bottom: 92px;
+}
+.line12{
+display: flex;
+width: 200px;
+    height: 40px;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    border: solid white 1px;
+
+
+}
+.itema{
+
+    width: 200px;
+}
+.itemm{
+ padding-right: 20px;
+}
